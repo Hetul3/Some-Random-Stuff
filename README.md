@@ -2,3 +2,6 @@
 Here is where you can see some random stuff I tried that might be interesting
 # Stuff Added so Far
 A golf application demo. Takes mouse input to launch a ball around the frame and when it hits the hole it falls in it.
+<br/>
+<br/>
+Projectile range visualizer made in processing. Takes in values of velocity, angle, initial height, and initial distance to show a simple simulation and outs range and max height once the projectile lands.
