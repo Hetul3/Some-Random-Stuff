@@ -5,3 +5,5 @@ A golf application demo. Takes mouse input to launch a ball around the frame and
 <br/>
 <br/>
 Projectile range visualizer made in processing. Takes in values of velocity, angle, initial height, and initial distance to show a simple simulation and outs range and max height once the projectile lands.
+<br/>
+A variation on Conway's 
