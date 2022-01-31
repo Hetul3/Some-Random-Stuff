@@ -6,4 +6,5 @@ A golf application demo. Takes mouse input to launch a ball around the frame and
 <br/>
 Projectile range visualizer made in processing. Takes in values of velocity, angle, initial height, and initial distance to show a simple simulation and outs range and max height once the projectile lands.
 <br/>
+<br/>
 A variation on Conway's Game of Life to generate semi-realistic land-water terrain. A change in rules from the original to prefer clumping of cells. Also kinda looks like coral.
