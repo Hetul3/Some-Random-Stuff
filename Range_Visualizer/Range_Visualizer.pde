@@ -66,7 +66,7 @@ void draw() {
     float mxh = ((v * v * sin(ang) * sin(ang)) / (2 * -g)) - y_in;
     textSize(50);
     text("Range: " + range + " units", 30, 50);
-    text("Max Height: " + mxh + "units", 30, 100);
+    text("Max Height: " + mxh + " units", 30, 100);
  
  }
   
